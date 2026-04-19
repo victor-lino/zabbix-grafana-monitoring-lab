@@ -43,31 +43,6 @@ O objetivo foi simular um cenário próximo ao de produção, com foco em observ
 
 ---
 
-## Prints do projeto
-
-### Arquitetura do ambiente
-![Arquitetura](images/architecture.png)
-
-### Dashboard Grafana - Linux
-![Grafana Linux](images/grafana-linux.png)
-
-### Dashboard Grafana - Windows
-![Grafana Windows](images/grafana-windows.png)
-
-### Hosts no Zabbix
-![Hosts Zabbix](images/zabbix-hosts.png)
-
-### Dados em tempo real (Latest Data)
-![Latest Data](images/latest-data.png)
-
-### Alertas por e-mail
-![Email Alerts](images/email-alerts.png)
-
-### Teste de comunicação (zabbix_get)
-![Terminal](images/terminal-zabbix-get.png)
-
----
-
 ## Problemas enfrentados e soluções
 
 ### 1. Integração Grafana + Zabbix
