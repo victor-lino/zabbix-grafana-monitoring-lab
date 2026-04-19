@@ -43,31 +43,6 @@ The goal was to simulate a production-like scenario focused on observability, ne
 
 ---
 
-## Project Screenshots
-
-### System Architecture
-![Architecture](images/architecture.png)
-
-### Grafana - Linux Dashboard
-![Grafana Linux](images/grafana-linux.png)
-
-### Grafana - Windows Dashboard
-![Grafana Windows](images/grafana-windows.png)
-
-### Zabbix Hosts
-![Zabbix Hosts](images/zabbix-hosts.png)
-
-### Real-time Metrics (Latest Data)
-![Latest Data](images/latest-data.png)
-
-### Email Alerts
-![Email Alerts](images/email-alerts.png)
-
-### Communication Test (zabbix_get)
-![Terminal](images/terminal-zabbix-get.png)
-
----
-
 ## Issues and Solutions
 
 ### 1. Grafana + Zabbix Integration
