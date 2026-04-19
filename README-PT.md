@@ -118,3 +118,9 @@ Foi fundamental para desenvolver uma visão mais realista de ambientes de produ�
 Projeto funcional  
 Ambiente estável  
 Monitoramento ativo
+
+---
+
+Autor
+
+Victor Lino
