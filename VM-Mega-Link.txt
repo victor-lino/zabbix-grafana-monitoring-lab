@@ -1,0 +1,53 @@
+# VM Download Links – Lab Environment
+
+This document contains the virtual machine download links used in the Zabbix and Grafana monitoring lab.
+
+---
+
+## Linux Server (Ubuntu)
+
+Download link:
+https://mega.nz/fm/4zAVRLZB
+
+---
+
+## Environment Description
+
+This virtual machine was used as part of a monitoring lab and includes:
+
+- Linux operating system (Ubuntu)
+- Zabbix Agent pre-installed
+- Pre-configured network settings
+- Monitoring scripts for testing and validation
+
+---
+
+## How to Use
+
+1. Download the .ova or .ovf + .vmdk files
+2. Open VMware Workstation or VMware Player
+3. Go to File → Open
+4. Select the downloaded VM file
+5. Start the virtual machine
+6. Verify network connectivity and agent status
+
+---
+
+## Notes
+
+This VM is designed for learning and simulation of a real monitoring environment using Zabbix and Grafana.
+
+It can be used to practice:
+
+- Infrastructure monitoring
+- Agent configuration
+- Network troubleshooting
+- Observability workflows
+
+---
+
+## Documentation
+
+For full project details, architecture, and scripts, refer to the main repository:
+
+Zabbix + Grafana Monitoring Lab
