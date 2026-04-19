@@ -1,0 +1,22 @@
+# Troubleshooting
+
+## Common Issues
+
+### EMPTY RESPONSE on agent
+- Cause: wrong IP or interface configuration
+- Fix: correct Server and ServerActive in agent config
+
+### Grafana cannot connect to Zabbix
+- Cause: wrong API endpoint
+- Fix: adjust Zabbix API URL
+
+### Network mismatch
+- Cause: multiple subnets (99.x vs 244.x)
+- Fix: standardize communication IP
+
+## Tools used
+
+- zabbix_get
+- nc (netcat)
+- curl
+- ss

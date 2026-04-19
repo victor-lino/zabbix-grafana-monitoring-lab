@@ -1,0 +1,23 @@
+# System Architecture
+
+This project simulates a monitoring environment using Zabbix and Grafana.
+
+## Components
+
+- Zabbix Server (Linux VM)
+- Linux Agent (multi-network interfaces)
+- Windows Agent
+- Grafana Dashboard
+- Email alert system
+
+## Flow
+
+1. Agents collect metrics
+2. Zabbix Server processes data
+3. Grafana visualizes dashboards
+4. Alerts are sent via email when triggers occur
+
+## Network
+
+- 192.168.244.128 → Zabbix Server / Grafana
+- 192.168.99.128 → Linux Agent
