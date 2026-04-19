@@ -1,0 +1,8 @@
+#!/bin/bash
+
+IP="192.168.244.128"
+PORT=10050
+
+echo "Checking port $PORT on $IP..."
+
+nc -zv $IP $PORTs

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Checking Zabbix Agent status..."
+systemctl status zabbix-agent --no-pager
